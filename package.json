@@ -5,7 +5,8 @@
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "package": "electron-packager . number-base-convertor --win --out ../number-base-convertor --arch=x64 --electron-version=4.0.8"
   },
   "repository": {
     "type": "git",
