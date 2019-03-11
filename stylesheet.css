@@ -1,0 +1,27 @@
+body {
+  margin: 40px;
+}
+
+.form-item {
+  font-size: 30px;
+}
+
+#confirm {
+  position: absolute;
+  left: 140px;
+  margin: 15px;
+  font-size: 22px;
+}
+
+#clear {
+  position: absolute;
+  left: 70px;
+  margin: 15px;
+  font-size: 22px;
+}
+
+.guide {
+  position: absolute;
+  left: 265px;
+  top: 50px;
+}

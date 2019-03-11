@@ -1,0 +1,20 @@
+{
+  "name": "number-base-convertor",
+  "version": "1.0.0",
+  "description": "a simple tool based on electron.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiangYintso/number-base-convertor.git"
+  },
+  "author": "ChiangYintso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChiangYintso/number-base-convertor/issues"
+  },
+  "homepage": "https://github.com/ChiangYintso/number-base-convertor#readme"
+}
